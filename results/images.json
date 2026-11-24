@@ -1,0 +1,82 @@
+{
+  "404.html": {
+    "images": 0,
+    "problems": []
+  },
+  "contact/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "index.html": {
+    "images": 3,
+    "problems": []
+  },
+  "news/every-image-needs-a-size/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "news/filters-that-work-without-javascript/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "news/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "news/scope-a-project-on-one-page/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "news/what-we-check-before-launch/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "services/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "team/index.html": {
+    "images": 0,
+    "problems": []
+  },
+  "work/category/branding/index.html": {
+    "images": 6,
+    "problems": []
+  },
+  "work/category/campaigns/index.html": {
+    "images": 6,
+    "problems": []
+  },
+  "work/category/websites/index.html": {
+    "images": 6,
+    "problems": []
+  },
+  "work/clearwater-water-saving/index.html": {
+    "images": 3,
+    "problems": []
+  },
+  "work/fernwood-dental-identity/index.html": {
+    "images": 3,
+    "problems": []
+  },
+  "work/harbourline-timetable/index.html": {
+    "images": 4,
+    "problems": []
+  },
+  "work/index.html": {
+    "images": 6,
+    "problems": []
+  },
+  "work/kite-books-shop/index.html": {
+    "images": 3,
+    "problems": []
+  },
+  "work/lantern-festival-campaign/index.html": {
+    "images": 3,
+    "problems": []
+  },
+  "work/northfield-co-op-site/index.html": {
+    "images": 3,
+    "problems": []
+  }
+}

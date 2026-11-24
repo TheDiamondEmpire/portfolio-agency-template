@@ -1,0 +1,1887 @@
+{
+  "gzip": "zlib gzip level 9, each file compressed separately",
+  "budgets": {
+    "totalBytes": 700000,
+    "totalGzipBytes": 190000,
+    "htmlBytes": 70000,
+    "htmlGzipBytes": 20000,
+    "cssBytes": 40000,
+    "cssGzipBytes": 9000,
+    "jsBytes": 500000,
+    "jsGzipBytes": 150000,
+    "requests": 30,
+    "thirdPartyRequests": 0
+  },
+  "pages": {
+    "404.html": {
+      "files": [
+        {
+          "path": "404.html",
+          "type": "html",
+          "bytes": 22161,
+          "gzipBytes": 4739
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 22161,
+        "htmlGzipBytes": 4739,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 517091,
+        "totalGzipBytes": 150876,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "contact/index.html": {
+      "files": [
+        {
+          "path": "contact/index.html",
+          "type": "html",
+          "bytes": 30409,
+          "gzipBytes": 6210
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/2idvkgokam5oi.css",
+          "type": "css",
+          "bytes": 2495,
+          "gzipBytes": 792
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "_next/static/chunks/2ds-j22m2173j.js",
+          "type": "js",
+          "bytes": 7858,
+          "gzipBytes": 2659
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 30409,
+        "htmlGzipBytes": 6210,
+        "cssBytes": 25031,
+        "cssGzipBytes": 6351,
+        "jsBytes": 479928,
+        "jsGzipBytes": 142993,
+        "assetBytes": 324,
+        "totalBytes": 535692,
+        "totalGzipBytes": 155798,
+        "requests": 12
+      },
+      "overBudget": []
+    },
+    "index.html": {
+      "files": [
+        {
+          "path": "index.html",
+          "type": "html",
+          "bytes": 54695,
+          "gzipBytes": 10165
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/27xmuxib2xbis.css",
+          "type": "css",
+          "bytes": 3281,
+          "gzipBytes": 870
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        }
+      ],
+      "totals": {
+        "htmlBytes": 54695,
+        "htmlGzipBytes": 10165,
+        "cssBytes": 25817,
+        "cssGzipBytes": 6429,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 4319,
+        "totalBytes": 556901,
+        "totalGzipBytes": 158233,
+        "requests": 14
+      },
+      "overBudget": []
+    },
+    "news/every-image-needs-a-size/index.html": {
+      "files": [
+        {
+          "path": "news/every-image-needs-a-size/index.html",
+          "type": "html",
+          "bytes": 34194,
+          "gzipBytes": 7182
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 34194,
+        "htmlGzipBytes": 7182,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 529124,
+        "totalGzipBytes": 153319,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "news/filters-that-work-without-javascript/index.html": {
+      "files": [
+        {
+          "path": "news/filters-that-work-without-javascript/index.html",
+          "type": "html",
+          "bytes": 34437,
+          "gzipBytes": 7208
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 34437,
+        "htmlGzipBytes": 7208,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 529367,
+        "totalGzipBytes": 153345,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "news/index.html": {
+      "files": [
+        {
+          "path": "news/index.html",
+          "type": "html",
+          "bytes": 30775,
+          "gzipBytes": 6383
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 30775,
+        "htmlGzipBytes": 6383,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 525705,
+        "totalGzipBytes": 152520,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "news/scope-a-project-on-one-page/index.html": {
+      "files": [
+        {
+          "path": "news/scope-a-project-on-one-page/index.html",
+          "type": "html",
+          "bytes": 34293,
+          "gzipBytes": 7251
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 34293,
+        "htmlGzipBytes": 7251,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 529223,
+        "totalGzipBytes": 153388,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "news/what-we-check-before-launch/index.html": {
+      "files": [
+        {
+          "path": "news/what-we-check-before-launch/index.html",
+          "type": "html",
+          "bytes": 34049,
+          "gzipBytes": 7099
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 34049,
+        "htmlGzipBytes": 7099,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 528979,
+        "totalGzipBytes": 153236,
+        "requests": 10
+      },
+      "overBudget": []
+    },
+    "services/index.html": {
+      "files": [
+        {
+          "path": "services/index.html",
+          "type": "html",
+          "bytes": 42847,
+          "gzipBytes": 8115
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/27xmuxib2xbis.css",
+          "type": "css",
+          "bytes": 3281,
+          "gzipBytes": 870
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 42847,
+        "htmlGzipBytes": 8115,
+        "cssBytes": 25817,
+        "cssGzipBytes": 6429,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 541058,
+        "totalGzipBytes": 155122,
+        "requests": 11
+      },
+      "overBudget": []
+    },
+    "team/index.html": {
+      "files": [
+        {
+          "path": "team/index.html",
+          "type": "html",
+          "bytes": 37629,
+          "gzipBytes": 7164
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/27xmuxib2xbis.css",
+          "type": "css",
+          "bytes": 3281,
+          "gzipBytes": 870
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        }
+      ],
+      "totals": {
+        "htmlBytes": 37629,
+        "htmlGzipBytes": 7164,
+        "cssBytes": 25817,
+        "cssGzipBytes": 6429,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 324,
+        "totalBytes": 535840,
+        "totalGzipBytes": 154171,
+        "requests": 11
+      },
+      "overBudget": []
+    },
+    "work/category/branding/index.html": {
+      "files": [
+        {
+          "path": "work/category/branding/index.html",
+          "type": "html",
+          "bytes": 37779,
+          "gzipBytes": 7593
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "_next/static/chunks/3809vzhhrt5n9.js",
+          "type": "js",
+          "bytes": 3416,
+          "gzipBytes": 1503
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        },
+        {
+          "path": "work/clearwater-water-saving/cover.svg",
+          "type": "asset",
+          "bytes": 2586,
+          "gzipBytes": 985
+        },
+        {
+          "path": "work/fernwood-dental-identity/cover.svg",
+          "type": "asset",
+          "bytes": 6642,
+          "gzipBytes": 1032
+        },
+        {
+          "path": "work/northfield-co-op-site/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 306
+        }
+      ],
+      "totals": {
+        "htmlBytes": 37779,
+        "htmlGzipBytes": 7593,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 475486,
+        "jsGzipBytes": 141837,
+        "assetBytes": 14451,
+        "totalBytes": 550252,
+        "totalGzipBytes": 158617,
+        "requests": 17
+      },
+      "overBudget": []
+    },
+    "work/category/campaigns/index.html": {
+      "files": [
+        {
+          "path": "work/category/campaigns/index.html",
+          "type": "html",
+          "bytes": 37744,
+          "gzipBytes": 7599
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "_next/static/chunks/3809vzhhrt5n9.js",
+          "type": "js",
+          "bytes": 3416,
+          "gzipBytes": 1503
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        },
+        {
+          "path": "work/clearwater-water-saving/cover.svg",
+          "type": "asset",
+          "bytes": 2586,
+          "gzipBytes": 985
+        },
+        {
+          "path": "work/fernwood-dental-identity/cover.svg",
+          "type": "asset",
+          "bytes": 6642,
+          "gzipBytes": 1032
+        },
+        {
+          "path": "work/northfield-co-op-site/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 306
+        }
+      ],
+      "totals": {
+        "htmlBytes": 37744,
+        "htmlGzipBytes": 7599,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 475486,
+        "jsGzipBytes": 141837,
+        "assetBytes": 14451,
+        "totalBytes": 550217,
+        "totalGzipBytes": 158623,
+        "requests": 17
+      },
+      "overBudget": []
+    },
+    "work/category/websites/index.html": {
+      "files": [
+        {
+          "path": "work/category/websites/index.html",
+          "type": "html",
+          "bytes": 37739,
+          "gzipBytes": 7607
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "_next/static/chunks/3809vzhhrt5n9.js",
+          "type": "js",
+          "bytes": 3416,
+          "gzipBytes": 1503
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        },
+        {
+          "path": "work/clearwater-water-saving/cover.svg",
+          "type": "asset",
+          "bytes": 2586,
+          "gzipBytes": 985
+        },
+        {
+          "path": "work/fernwood-dental-identity/cover.svg",
+          "type": "asset",
+          "bytes": 6642,
+          "gzipBytes": 1032
+        },
+        {
+          "path": "work/northfield-co-op-site/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 306
+        }
+      ],
+      "totals": {
+        "htmlBytes": 37739,
+        "htmlGzipBytes": 7607,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 475486,
+        "jsGzipBytes": 141837,
+        "assetBytes": 14451,
+        "totalBytes": 550212,
+        "totalGzipBytes": 158631,
+        "requests": 17
+      },
+      "overBudget": []
+    },
+    "work/clearwater-water-saving/index.html": {
+      "files": [
+        {
+          "path": "work/clearwater-water-saving/index.html",
+          "type": "html",
+          "bytes": 40638,
+          "gzipBytes": 8172
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/clearwater-water-saving/cover.svg",
+          "type": "asset",
+          "bytes": 2586,
+          "gzipBytes": 985
+        },
+        {
+          "path": "work/clearwater-water-saving/insert.svg",
+          "type": "asset",
+          "bytes": 4470,
+          "gzipBytes": 580
+        },
+        {
+          "path": "work/clearwater-water-saving/chart.svg",
+          "type": "asset",
+          "bytes": 6675,
+          "gzipBytes": 1012
+        }
+      ],
+      "totals": {
+        "htmlBytes": 40638,
+        "htmlGzipBytes": 8172,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 14055,
+        "totalBytes": 549299,
+        "totalGzipBytes": 156886,
+        "requests": 13
+      },
+      "overBudget": []
+    },
+    "work/fernwood-dental-identity/index.html": {
+      "files": [
+        {
+          "path": "work/fernwood-dental-identity/index.html",
+          "type": "html",
+          "bytes": 40651,
+          "gzipBytes": 8197
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/fernwood-dental-identity/cover.svg",
+          "type": "asset",
+          "bytes": 6642,
+          "gzipBytes": 1032
+        },
+        {
+          "path": "work/fernwood-dental-identity/mark.svg",
+          "type": "asset",
+          "bytes": 2068,
+          "gzipBytes": 453
+        },
+        {
+          "path": "work/fernwood-dental-identity/stationery.svg",
+          "type": "asset",
+          "bytes": 1023,
+          "gzipBytes": 308
+        }
+      ],
+      "totals": {
+        "htmlBytes": 40651,
+        "htmlGzipBytes": 8197,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 10057,
+        "totalBytes": 545314,
+        "totalGzipBytes": 156127,
+        "requests": 13
+      },
+      "overBudget": []
+    },
+    "work/harbourline-timetable/index.html": {
+      "files": [
+        {
+          "path": "work/harbourline-timetable/index.html",
+          "type": "html",
+          "bytes": 43449,
+          "gzipBytes": 8664
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/harbourline-timetable/signage.svg",
+          "type": "asset",
+          "bytes": 3160,
+          "gzipBytes": 695
+        },
+        {
+          "path": "work/harbourline-timetable/guidelines.svg",
+          "type": "asset",
+          "bytes": 6341,
+          "gzipBytes": 819
+        },
+        {
+          "path": "work/harbourline-timetable/map.svg",
+          "type": "asset",
+          "bytes": 2569,
+          "gzipBytes": 979
+        }
+      ],
+      "totals": {
+        "htmlBytes": 43449,
+        "htmlGzipBytes": 8664,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 13436,
+        "totalBytes": 551491,
+        "totalGzipBytes": 157604,
+        "requests": 14
+      },
+      "overBudget": []
+    },
+    "work/index.html": {
+      "files": [
+        {
+          "path": "work/index.html",
+          "type": "html",
+          "bytes": 36123,
+          "gzipBytes": 7504
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "_next/static/chunks/3809vzhhrt5n9.js",
+          "type": "js",
+          "bytes": 3416,
+          "gzipBytes": 1503
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/harbourline-timetable/cover.svg",
+          "type": "asset",
+          "bytes": 1042,
+          "gzipBytes": 310
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        },
+        {
+          "path": "work/clearwater-water-saving/cover.svg",
+          "type": "asset",
+          "bytes": 2586,
+          "gzipBytes": 985
+        },
+        {
+          "path": "work/fernwood-dental-identity/cover.svg",
+          "type": "asset",
+          "bytes": 6642,
+          "gzipBytes": 1032
+        },
+        {
+          "path": "work/northfield-co-op-site/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 306
+        }
+      ],
+      "totals": {
+        "htmlBytes": 36123,
+        "htmlGzipBytes": 7504,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 475486,
+        "jsGzipBytes": 141837,
+        "assetBytes": 14451,
+        "totalBytes": 548596,
+        "totalGzipBytes": 158528,
+        "requests": 17
+      },
+      "overBudget": []
+    },
+    "work/kite-books-shop/index.html": {
+      "files": [
+        {
+          "path": "work/kite-books-shop/index.html",
+          "type": "html",
+          "bytes": 41566,
+          "gzipBytes": 8305
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/kite-books-shop/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 305
+        },
+        {
+          "path": "work/kite-books-shop/grid.svg",
+          "type": "asset",
+          "bytes": 4719,
+          "gzipBytes": 668
+        },
+        {
+          "path": "work/kite-books-shop/mobile.svg",
+          "type": "asset",
+          "bytes": 818,
+          "gzipBytes": 300
+        }
+      ],
+      "totals": {
+        "htmlBytes": 41566,
+        "htmlGzipBytes": 8305,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 6765,
+        "totalBytes": 542937,
+        "totalGzipBytes": 155715,
+        "requests": 13
+      },
+      "overBudget": []
+    },
+    "work/lantern-festival-campaign/index.html": {
+      "files": [
+        {
+          "path": "work/lantern-festival-campaign/index.html",
+          "type": "html",
+          "bytes": 41737,
+          "gzipBytes": 8283
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/lantern-festival-campaign/cover.svg",
+          "type": "asset",
+          "bytes": 2049,
+          "gzipBytes": 446
+        },
+        {
+          "path": "work/lantern-festival-campaign/posters.svg",
+          "type": "asset",
+          "bytes": 3572,
+          "gzipBytes": 711
+        },
+        {
+          "path": "work/lantern-festival-campaign/landing.svg",
+          "type": "asset",
+          "bytes": 934,
+          "gzipBytes": 322
+        }
+      ],
+      "totals": {
+        "htmlBytes": 41737,
+        "htmlGzipBytes": 8283,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 6879,
+        "totalBytes": 543222,
+        "totalGzipBytes": 155899,
+        "requests": 13
+      },
+      "overBudget": []
+    },
+    "work/northfield-co-op-site/index.html": {
+      "files": [
+        {
+          "path": "work/northfield-co-op-site/index.html",
+          "type": "html",
+          "bytes": 41802,
+          "gzipBytes": 8396
+        },
+        {
+          "path": "_next/static/chunks/11aimwnlflfeq.css",
+          "type": "css",
+          "bytes": 9284,
+          "gzipBytes": 2803
+        },
+        {
+          "path": "_next/static/chunks/42ksu23jl6fhx.css",
+          "type": "css",
+          "bytes": 13252,
+          "gzipBytes": 2756
+        },
+        {
+          "path": "_next/static/chunks/310vm2bl3xxpt.js",
+          "type": "js",
+          "bytes": 5364,
+          "gzipBytes": 1969
+        },
+        {
+          "path": "_next/static/chunks/0vm8zo6v48m9c.js",
+          "type": "js",
+          "bytes": 29127,
+          "gzipBytes": 7632
+        },
+        {
+          "path": "_next/static/chunks/011v0vubfp6h-.js",
+          "type": "js",
+          "bytes": 229288,
+          "gzipBytes": 71584
+        },
+        {
+          "path": "_next/static/chunks/0c98xzjfks9hq.js",
+          "type": "js",
+          "bytes": 169973,
+          "gzipBytes": 46559
+        },
+        {
+          "path": "_next/static/chunks/turbopack-077hmtqrhcoji.js",
+          "type": "js",
+          "bytes": 11199,
+          "gzipBytes": 4354
+        },
+        {
+          "path": "_next/static/chunks/31aw8r__4jtop.js",
+          "type": "js",
+          "bytes": 27119,
+          "gzipBytes": 8236
+        },
+        {
+          "path": "favicon.svg",
+          "type": "asset",
+          "bytes": 324,
+          "gzipBytes": 244
+        },
+        {
+          "path": "work/northfield-co-op-site/cover.svg",
+          "type": "asset",
+          "bytes": 904,
+          "gzipBytes": 306
+        },
+        {
+          "path": "work/northfield-co-op-site/content-model.svg",
+          "type": "asset",
+          "bytes": 1022,
+          "gzipBytes": 306
+        },
+        {
+          "path": "work/northfield-co-op-site/weights.svg",
+          "type": "asset",
+          "bytes": 2380,
+          "gzipBytes": 972
+        }
+      ],
+      "totals": {
+        "htmlBytes": 41802,
+        "htmlGzipBytes": 8396,
+        "cssBytes": 22536,
+        "cssGzipBytes": 5559,
+        "jsBytes": 472070,
+        "jsGzipBytes": 140334,
+        "assetBytes": 4630,
+        "totalBytes": 541038,
+        "totalGzipBytes": 156117,
+        "requests": 13
+      },
+      "overBudget": []
+    }
+  }
+}

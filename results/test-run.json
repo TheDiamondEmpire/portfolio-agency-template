@@ -1,0 +1,106 @@
+{
+  "command": "npm run test:record (vitest run, projects: unit, static, export)",
+  "exitCode": 0,
+  "tests": 338,
+  "pass": 337,
+  "fail": 0,
+  "pending": 1,
+  "todo": 0,
+  "testFiles": 23,
+  "failingTests": [],
+  "byFile": {
+    "tests/unit/components.test.tsx": {
+      "passed": 30,
+      "failed": 0
+    },
+    "tests/unit/contact-adapters.test.ts": {
+      "passed": 5,
+      "failed": 0
+    },
+    "tests/unit/contact-form.test.tsx": {
+      "passed": 13,
+      "failed": 0
+    },
+    "tests/unit/contact-validate.test.ts": {
+      "passed": 16,
+      "failed": 0
+    },
+    "tests/unit/content-files.test.ts": {
+      "passed": 5,
+      "failed": 0
+    },
+    "tests/unit/content.test.ts": {
+      "passed": 13,
+      "failed": 0
+    },
+    "tests/unit/feed-routes.test.ts": {
+      "passed": 11,
+      "failed": 0
+    },
+    "tests/unit/filter.test.ts": {
+      "passed": 13,
+      "failed": 0
+    },
+    "tests/unit/images.test.ts": {
+      "passed": 3,
+      "failed": 0
+    },
+    "tests/unit/jsonld.test.ts": {
+      "passed": 9,
+      "failed": 0
+    },
+    "tests/unit/mdx-config.test.tsx": {
+      "passed": 9,
+      "failed": 0
+    },
+    "tests/unit/media.test.tsx": {
+      "passed": 16,
+      "failed": 0
+    },
+    "tests/unit/news.test.ts": {
+      "passed": 10,
+      "failed": 0
+    },
+    "tests/unit/og.test.ts": {
+      "passed": 4,
+      "failed": 0
+    },
+    "tests/unit/seo.test.ts": {
+      "passed": 18,
+      "failed": 0
+    },
+    "tests/unit/work-grid.test.tsx": {
+      "passed": 15,
+      "failed": 0
+    },
+    "tests/unit/work.test.ts": {
+      "passed": 36,
+      "failed": 0
+    },
+    "tests/static/art.test.mjs": {
+      "passed": 4,
+      "failed": 0
+    },
+    "tests/static/docs.test.mjs": {
+      "passed": 18,
+      "failed": 0
+    },
+    "tests/static/source.test.mjs": {
+      "passed": 32,
+      "failed": 0
+    },
+    "tests/static/tokens.test.mjs": {
+      "passed": 20,
+      "failed": 0
+    },
+    "tests/export/browser.test.mjs": {
+      "passed": 11,
+      "failed": 0
+    },
+    "tests/export/static-export.test.mjs": {
+      "passed": 26,
+      "failed": 0
+    }
+  },
+  "finishedAt": "2026-11-09T21:44:38.495Z"
+}

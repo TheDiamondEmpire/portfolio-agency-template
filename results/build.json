@@ -1,0 +1,7 @@
+{
+  "command": "npm run build",
+  "exitCode": 0,
+  "next": "16.4.4",
+  "exportFolderExists": true,
+  "routeLinesInOutput": 19
+}

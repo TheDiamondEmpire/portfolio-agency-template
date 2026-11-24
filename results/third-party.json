@@ -1,0 +1,26 @@
+{
+  "scan": {
+    "filesScanned": 163,
+    "allowedHosts": [
+      "www.example.com",
+      "schema.org"
+    ],
+    "found": [],
+    "frameworkTextOnly": {
+      "github.com": 2,
+      "nextjs.org": 10,
+      "react.dev": 3,
+      "www.w3.org": 3
+    },
+    "note": "found lists URLs in pages, styles, feeds and non-framework script text that are not the configured site URL or schema.org. frameworkTextOnly counts links that appear only as text inside the React and Next.js runtime (error message links); no page requests them, which the browser request check confirms."
+  },
+  "tracking": {
+    "filesScanned": 163,
+    "hits": []
+  },
+  "sourceNetworkApis": {
+    "filesScanned": 63,
+    "filesUsingNetworkApis": [],
+    "filesImportingTheOptionalAdapter": []
+  }
+}

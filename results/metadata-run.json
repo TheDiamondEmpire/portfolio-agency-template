@@ -1,0 +1,43 @@
+{
+  "command": "npm run measure",
+  "startedAt": "2026-11-09T20:27:10.860Z",
+  "finishedAt": "2026-11-09T21:25:12.662Z",
+  "node": "v25.9.0",
+  "platform": "win32 10.0.26200 x64",
+  "browser": {
+    "channel": "chrome",
+    "version": "156.0.8078.80",
+    "driver": "playwright-core 1.64.1",
+    "mode": "headless, one instance reused for all browser checks"
+  },
+  "tools": {
+    "next": "16.4.4",
+    "react": "19.3.1",
+    "axe-core": "4.14.0",
+    "html-validate": "11.18.0",
+    "vitest": "5.1.0",
+    "typescript": "5.9.3"
+  },
+  "htmlValidatePreset": {
+    "extends": [
+      "html-validate:recommended"
+    ],
+    "rules": {
+      "attr-case": "off",
+      "void-style": "off",
+      "attribute-boolean-style": "off",
+      "attribute-empty-style": "off",
+      "valid-id": [
+        "error",
+        {
+          "relaxed": true
+        }
+      ]
+    }
+  },
+  "siteUrlUsedForTheBuild": "https://www.example.com",
+  "notes": [
+    "No timing or performance score is measured.",
+    "The test server binds 127.0.0.1 on an ephemeral port and is stopped at the end."
+  ]
+}

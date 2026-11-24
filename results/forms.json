@@ -1,0 +1,64 @@
+{
+  "facts": {
+    "empty": {
+      "summaryFocused": true,
+      "summaryLinks": [
+        {
+          "text": "Enter your name.",
+          "targetExists": true
+        },
+        {
+          "text": "Enter your email address.",
+          "targetExists": true
+        },
+        {
+          "text": "Choose what your enquiry is about.",
+          "targetExists": true
+        },
+        {
+          "text": "Enter a message.",
+          "targetExists": true
+        },
+        {
+          "text": "Tick the box to confirm we may use these details to reply to you.",
+          "targetExists": true
+        }
+      ],
+      "invalidFields": [
+        "contact-name",
+        "contact-email",
+        "contact-topic",
+        "contact-message",
+        "contact-consent"
+      ],
+      "describedByResolves": true,
+      "confirmationShown": false
+    },
+    "badEmail": {
+      "invalid": [
+        "contact-email"
+      ],
+      "summary": "There is a problemEnter an email address in the format name@example.com."
+    },
+    "badEmailFixed": 0,
+    "valid": {
+      "demoAttr": "true",
+      "text": "DemoThis is a demo: your message was not sentThis form is not connected to an inbox or an email service yet, so nothing left your browser. The site owner connects a real service in one file (see the guide called \"Connect the contact form\").Try the form again",
+      "headingFocused": true,
+      "role": "status",
+      "formStillShown": false,
+      "requestsDuringSubmit": 0,
+      "emptyAfterReset": true
+    },
+    "double": {
+      "confirmations": 1,
+      "requests": 0,
+      "pageErrors": 0
+    },
+    "noJs": {
+      "fieldsetDisabled": true,
+      "noscriptMessage": true
+    }
+  },
+  "problems": []
+}

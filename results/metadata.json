@@ -1,0 +1,315 @@
+{
+  "siteUrl": "https://www.example.com",
+  "pages": {
+    "404.html": {
+      "urlPath": null,
+      "title": "Page not found | The Diamond Empire Studio",
+      "titleLength": 42,
+      "description": "The page you were looking for could not be found. It may have moved or the address may be mistyped.",
+      "descriptionLength": 99,
+      "canonical": null,
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "headingLevels": 3,
+      "problems": []
+    },
+    "contact/index.html": {
+      "urlPath": "/contact/",
+      "title": "Contact us | The Diamond Empire Studio",
+      "titleLength": 38,
+      "description": "Get in touch with The Diamond Empire Studio. Tell us about your project in a few lines. We reply within two working days.",
+      "descriptionLength": 121,
+      "canonical": "https://www.example.com/contact/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 5,
+      "problems": []
+    },
+    "index.html": {
+      "urlPath": "/",
+      "title": "The Diamond Empire Studio | Case-study portfolio template",
+      "titleLength": 57,
+      "description": "A sample studio site: filterable work, long-form case studies, services, team and news, all as fast static pages. Replace the sample content with your own.",
+      "descriptionLength": 155,
+      "canonical": "https://www.example.com/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "headingLevels": 21,
+      "problems": []
+    },
+    "news/every-image-needs-a-size/index.html": {
+      "urlPath": "/news/every-image-needs-a-size/",
+      "title": "Why every image on our sites has a width and a height",
+      "titleLength": 53,
+      "description": "A picture that does not say how big it is makes the page jump when it loads. Here is what we do about it and how we check.",
+      "descriptionLength": 122,
+      "canonical": "https://www.example.com/news/every-image-needs-a-size/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "news/filters-that-work-without-javascript/index.html": {
+      "urlPath": "/news/filters-that-work-without-javascript/",
+      "title": "Filters that work without JavaScript | The Diamond Empire Studio",
+      "titleLength": 64,
+      "description": "How the work grid on this site filters by category: real links first, then a small enhancement for people whose scripts have loaded.",
+      "descriptionLength": 132,
+      "canonical": "https://www.example.com/news/filters-that-work-without-javascript/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "news/index.html": {
+      "urlPath": "/news/",
+      "title": "News | The Diamond Empire Studio",
+      "titleLength": 32,
+      "description": "Short, original notes from the studio on how projects are scoped, designed and measured.",
+      "descriptionLength": 88,
+      "canonical": "https://www.example.com/news/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "news/scope-a-project-on-one-page/index.html": {
+      "urlPath": "/news/scope-a-project-on-one-page/",
+      "title": "How we scope a project on one page | The Diamond Empire Studio",
+      "titleLength": 62,
+      "description": "The one-page scope we write before any design starts: the problem, the audience, what done looks like and the one number to watch.",
+      "descriptionLength": 130,
+      "canonical": "https://www.example.com/news/scope-a-project-on-one-page/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 9,
+      "problems": []
+    },
+    "news/what-we-check-before-launch/index.html": {
+      "urlPath": "/news/what-we-check-before-launch/",
+      "title": "What we check before a site goes live | The Diamond Empire Studio",
+      "titleLength": 65,
+      "description": "Our short pre-launch list: links, headings, contrast, keyboard use, page weight and the share image, and what each check cannot tell you.",
+      "descriptionLength": 137,
+      "canonical": "https://www.example.com/news/what-we-check-before-launch/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "BlogPosting",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "services/index.html": {
+      "urlPath": "/services/",
+      "title": "Services | The Diamond Empire Studio",
+      "titleLength": 36,
+      "description": "What the studio offers: brand identity, websites and campaigns, each with a clear scope, a fixed set of deliverables and a stated duration.",
+      "descriptionLength": 139,
+      "canonical": "https://www.example.com/services/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 16,
+      "problems": []
+    },
+    "team/index.html": {
+      "urlPath": "/team/",
+      "title": "Team | The Diamond Empire Studio",
+      "titleLength": 32,
+      "description": "Meet the sample team behind The Diamond Empire Studio: the people, what they do and how the studio works.",
+      "descriptionLength": 105,
+      "canonical": "https://www.example.com/team/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 15,
+      "problems": []
+    },
+    "work/category/branding/index.html": {
+      "urlPath": "/work/category/branding/",
+      "title": "Branding work | The Diamond Empire Studio",
+      "titleLength": 41,
+      "description": "Identities, signage and guidelines that people can actually apply. See the 2 case studies in branding.",
+      "descriptionLength": 102,
+      "canonical": "https://www.example.com/work/category/branding/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "work/category/campaigns/index.html": {
+      "urlPath": "/work/category/campaigns/",
+      "title": "Campaigns work | The Diamond Empire Studio",
+      "titleLength": 42,
+      "description": "Short, focused campaigns with one clear thing to measure. See the 2 case studies in campaigns.",
+      "descriptionLength": 94,
+      "canonical": "https://www.example.com/work/category/campaigns/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "work/category/websites/index.html": {
+      "urlPath": "/work/category/websites/",
+      "title": "Websites work | The Diamond Empire Studio",
+      "titleLength": 41,
+      "description": "Fast, accessible sites built around what visitors came to do. See the 2 case studies in websites.",
+      "descriptionLength": 97,
+      "canonical": "https://www.example.com/work/category/websites/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "work/clearwater-water-saving/index.html": {
+      "urlPath": "/work/clearwater-water-saving/",
+      "title": "Clearwater Water: a bill insert that got read",
+      "titleLength": 45,
+      "description": "A one-page insert and a short follow-up for a water company's saving campaign, tested against the leaflet it replaced.",
+      "descriptionLength": 118,
+      "canonical": "https://www.example.com/work/clearwater-water-saving/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "work/fernwood-dental-identity/index.html": {
+      "urlPath": "/work/fernwood-dental-identity/",
+      "title": "Fernwood Dental: an identity a front desk can apply",
+      "titleLength": 51,
+      "description": "A mark, a colour system and three templates for a group of dental practices that had four logos and no guidelines.",
+      "descriptionLength": 114,
+      "canonical": "https://www.example.com/work/fernwood-dental-identity/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "work/harbourline-timetable/index.html": {
+      "urlPath": "/work/harbourline-timetable/",
+      "title": "Harbourline Ferries: a timetable people can read",
+      "titleLength": 48,
+      "description": "A new timetable system and signage for a small ferry operator, tested with passengers who had missed boats.",
+      "descriptionLength": 107,
+      "canonical": "https://www.example.com/work/harbourline-timetable/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "work/index.html": {
+      "urlPath": "/work/",
+      "title": "Work | The Diamond Empire Studio",
+      "titleLength": 32,
+      "description": "Case studies from the studio: the problem, what was made and what changed. Filter by kind of work.",
+      "descriptionLength": 98,
+      "canonical": "https://www.example.com/work/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "headingLevels": 11,
+      "problems": []
+    },
+    "work/kite-books-shop/index.html": {
+      "urlPath": "/work/kite-books-shop/",
+      "title": "Kite Books: an independent bookshop's site, built to be light",
+      "titleLength": 61,
+      "description": "A static online shop front for an independent bookshop, designed for slow phones and for staff who add books without a developer.",
+      "descriptionLength": 129,
+      "canonical": "https://www.example.com/work/kite-books-shop/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "work/lantern-festival-campaign/index.html": {
+      "urlPath": "/work/lantern-festival-campaign/",
+      "title": "Lantern Festival: a six-week campaign with one number to watch",
+      "titleLength": 62,
+      "description": "A short campaign for a town winter festival: one message, two posters, one landing page and a plain report of what moved.",
+      "descriptionLength": 121,
+      "canonical": "https://www.example.com/work/lantern-festival-campaign/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    },
+    "work/northfield-co-op-site/index.html": {
+      "urlPath": "/work/northfield-co-op-site/",
+      "title": "Northfield Co-op: a content model the team can edit",
+      "titleLength": 51,
+      "description": "A members' website for a small food co-operative, with a content format that fails loudly and an accessibility check at every release.",
+      "descriptionLength": 134,
+      "canonical": "https://www.example.com/work/northfield-co-op-site/",
+      "h1Count": 1,
+      "jsonLdTypes": [
+        "BreadcrumbList",
+        "CreativeWork",
+        "Organization"
+      ],
+      "headingLevels": 8,
+      "problems": []
+    }
+  },
+  "duplicateTitles": [],
+  "duplicateDescriptions": []
+}

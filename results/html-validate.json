@@ -1,0 +1,157 @@
+{
+  "tool": "html-validate",
+  "config": {
+    "extends": [
+      "html-validate:recommended"
+    ],
+    "rules": {
+      "attr-case": "off",
+      "void-style": "off",
+      "attribute-boolean-style": "off",
+      "attribute-empty-style": "off",
+      "valid-id": [
+        "error",
+        {
+          "relaxed": true
+        }
+      ]
+    }
+  },
+  "adjustedRules": [
+    "attr-case",
+    "void-style",
+    "attribute-boolean-style",
+    "attribute-empty-style",
+    "valid-id"
+  ],
+  "adjustedRulesReason": "Next.js (React) writes valid HTML in a style the recommended preset does not prefer: camelCase attribute names that HTML treats case-insensitively (charSet, dateTime, noValidate, autoComplete, maxLength), self-closing void tags (<link .../>), boolean attributes with empty values (async=\"\", disabled=\"\", hidden=\"\"), and an element id that starts with an underscore. The template cannot change this output, so attr-case, void-style, attribute-boolean-style and attribute-empty-style are off, and valid-id is relaxed (the HTML standard allows any id without spaces; our own heading ids may start with a digit). Every other rule of the preset stays on.",
+  "messagesWithUnmodifiedPresetByRule": {
+    "attr-case": 104,
+    "void-style": 615,
+    "attribute-boolean-style": 148,
+    "attribute-empty-style": 32,
+    "valid-id": 20
+  },
+  "files": {
+    "404.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "contact/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "news/every-image-needs-a-size/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "news/filters-that-work-without-javascript/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "news/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "news/scope-a-project-on-one-page/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "news/what-we-check-before-launch/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "services/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "team/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/category/branding/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/category/campaigns/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/category/websites/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/clearwater-water-saving/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/fernwood-dental-identity/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/harbourline-timetable/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/kite-books-shop/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/lantern-festival-campaign/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    "work/northfield-co-op-site/index.html": {
+      "valid": true,
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    }
+  }
+}

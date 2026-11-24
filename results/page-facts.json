@@ -1,0 +1,490 @@
+{
+  "404.html": {
+    "lang": "en-GB",
+    "title": "Page not found | The Diamond Empire Studio",
+    "description": "The page you were looking for could not be found. It may have moved or the address may be mistyped.",
+    "canonical": null,
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "contact/index.html": {
+    "lang": "en-GB",
+    "title": "Contact us | The Diamond Empire Studio",
+    "description": "Get in touch with The Diamond Empire Studio. Tell us about your project in a few lines. We reply within two working days.",
+    "canonical": "https://www.example.com/contact/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "index.html": {
+    "lang": "en-GB",
+    "title": "The Diamond Empire Studio | Case-study portfolio template",
+    "description": "A sample studio site: filterable work, long-form case studies, services, team and news, all as fast static pages. Replace the sample content with your own.",
+    "canonical": "https://www.example.com/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "news/every-image-needs-a-size/index.html": {
+    "lang": "en-GB",
+    "title": "Why every image on our sites has a width and a height",
+    "description": "A picture that does not say how big it is makes the page jump when it loads. Here is what we do about it and how we check.",
+    "canonical": "https://www.example.com/news/every-image-needs-a-size/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "news/filters-that-work-without-javascript/index.html": {
+    "lang": "en-GB",
+    "title": "Filters that work without JavaScript | The Diamond Empire Studio",
+    "description": "How the work grid on this site filters by category: real links first, then a small enhancement for people whose scripts have loaded.",
+    "canonical": "https://www.example.com/news/filters-that-work-without-javascript/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "news/index.html": {
+    "lang": "en-GB",
+    "title": "News | The Diamond Empire Studio",
+    "description": "Short, original notes from the studio on how projects are scoped, designed and measured.",
+    "canonical": "https://www.example.com/news/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "news/scope-a-project-on-one-page/index.html": {
+    "lang": "en-GB",
+    "title": "How we scope a project on one page | The Diamond Empire Studio",
+    "description": "The one-page scope we write before any design starts: the problem, the audience, what done looks like and the one number to watch.",
+    "canonical": "https://www.example.com/news/scope-a-project-on-one-page/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "news/what-we-check-before-launch/index.html": {
+    "lang": "en-GB",
+    "title": "What we check before a site goes live | The Diamond Empire Studio",
+    "description": "Our short pre-launch list: links, headings, contrast, keyboard use, page weight and the share image, and what each check cannot tell you.",
+    "canonical": "https://www.example.com/news/what-we-check-before-launch/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "services/index.html": {
+    "lang": "en-GB",
+    "title": "Services | The Diamond Empire Studio",
+    "description": "What the studio offers: brand identity, websites and campaigns, each with a clear scope, a fixed set of deliverables and a stated duration.",
+    "canonical": "https://www.example.com/services/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "team/index.html": {
+    "lang": "en-GB",
+    "title": "Team | The Diamond Empire Studio",
+    "description": "Meet the sample team behind The Diamond Empire Studio: the people, what they do and how the studio works.",
+    "canonical": "https://www.example.com/team/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/category/branding/index.html": {
+    "lang": "en-GB",
+    "title": "Branding work | The Diamond Empire Studio",
+    "description": "Identities, signage and guidelines that people can actually apply. See the 2 case studies in branding.",
+    "canonical": "https://www.example.com/work/category/branding/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Filter work by kind",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/category/campaigns/index.html": {
+    "lang": "en-GB",
+    "title": "Campaigns work | The Diamond Empire Studio",
+    "description": "Short, focused campaigns with one clear thing to measure. See the 2 case studies in campaigns.",
+    "canonical": "https://www.example.com/work/category/campaigns/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Filter work by kind",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/category/websites/index.html": {
+    "lang": "en-GB",
+    "title": "Websites work | The Diamond Empire Studio",
+    "description": "Fast, accessible sites built around what visitors came to do. See the 2 case studies in websites.",
+    "canonical": "https://www.example.com/work/category/websites/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Filter work by kind",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/clearwater-water-saving/index.html": {
+    "lang": "en-GB",
+    "title": "Clearwater Water: a bill insert that got read",
+    "description": "A one-page insert and a short follow-up for a water company's saving campaign, tested against the leaflet it replaced.",
+    "canonical": "https://www.example.com/work/clearwater-water-saving/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/fernwood-dental-identity/index.html": {
+    "lang": "en-GB",
+    "title": "Fernwood Dental: an identity a front desk can apply",
+    "description": "A mark, a colour system and three templates for a group of dental practices that had four logos and no guidelines.",
+    "canonical": "https://www.example.com/work/fernwood-dental-identity/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/harbourline-timetable/index.html": {
+    "lang": "en-GB",
+    "title": "Harbourline Ferries: a timetable people can read",
+    "description": "A new timetable system and signage for a small ferry operator, tested with passengers who had missed boats.",
+    "canonical": "https://www.example.com/work/harbourline-timetable/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/index.html": {
+    "lang": "en-GB",
+    "title": "Work | The Diamond Empire Studio",
+    "description": "Case studies from the studio: the problem, what was made and what changed. Filter by kind of work.",
+    "canonical": "https://www.example.com/work/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "Filter work by kind",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/kite-books-shop/index.html": {
+    "lang": "en-GB",
+    "title": "Kite Books: an independent bookshop's site, built to be light",
+    "description": "A static online shop front for an independent bookshop, designed for slow phones and for staff who add books without a developer.",
+    "canonical": "https://www.example.com/work/kite-books-shop/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/lantern-festival-campaign/index.html": {
+    "lang": "en-GB",
+    "title": "Lantern Festival: a six-week campaign with one number to watch",
+    "description": "A short campaign for a town winter festival: one message, two posters, one landing page and a plain report of what moved.",
+    "canonical": "https://www.example.com/work/lantern-festival-campaign/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  },
+  "work/northfield-co-op-site/index.html": {
+    "lang": "en-GB",
+    "title": "Northfield Co-op: a content model the team can edit",
+    "description": "A members' website for a small food co-operative, with a content format that fails loudly and an accessibility check at every release.",
+    "canonical": "https://www.example.com/work/northfield-co-op-site/",
+    "h1": 1,
+    "landmarks": {
+      "banner": 1,
+      "main": 1,
+      "contentinfo": 1,
+      "navs": [
+        "Main",
+        "Breadcrumb",
+        "More projects",
+        "Footer"
+      ]
+    },
+    "skipLinkIsFirstFocusable": true,
+    "skipTargetIsMain": true,
+    "duplicateIds": [],
+    "unlabelledControls": [],
+    "imagesWithoutAlt": 0,
+    "linksWithoutName": 0,
+    "buttonsWithoutName": 0
+  }
+}

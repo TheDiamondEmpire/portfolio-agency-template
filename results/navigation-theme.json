@@ -1,0 +1,38 @@
+{
+  "skipLink": {
+    "activeId": "main",
+    "hash": "#main"
+  },
+  "routeFocus": {
+    "activeId": "main",
+    "path": "/services/",
+    "current": [
+      "Services"
+    ],
+    "h1": "Services",
+    "title": "Services | The Diamond Empire Studio"
+  },
+  "theme": {
+    "initial": {
+      "pressed": "true",
+      "dataTheme": null,
+      "bg": "rgb(5, 7, 28)"
+    },
+    "afterClick": {
+      "pressed": "false",
+      "dataTheme": "light",
+      "bg": "rgb(253, 249, 251)",
+      "stored": "light"
+    },
+    "afterReload": {
+      "pressed": "false",
+      "dataTheme": "light",
+      "bg": "rgb(253, 249, 251)"
+    },
+    "backToDark": {
+      "pressed": "true",
+      "dataTheme": "dark",
+      "bg": "rgb(5, 7, 28)"
+    }
+  }
+}

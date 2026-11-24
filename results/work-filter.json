@@ -1,0 +1,84 @@
+{
+  "facts": {
+    "noJs": {
+      "all": {
+        "cards": 6,
+        "hidden": 0
+      },
+      "branding": {
+        "shown": 2,
+        "expected": 2,
+        "onlyThisCategory": true,
+        "current": [
+          "/work/category/branding/"
+        ]
+      },
+      "websites": {
+        "shown": 2,
+        "expected": 2,
+        "onlyThisCategory": true,
+        "current": [
+          "/work/category/websites/"
+        ]
+      },
+      "campaigns": {
+        "shown": 2,
+        "expected": 2,
+        "onlyThisCategory": true,
+        "current": [
+          "/work/category/campaigns/"
+        ]
+      }
+    },
+    "js": {
+      "afterClick": {
+        "path": "/work/category/branding/",
+        "marker": "same document",
+        "shown": 2,
+        "status": "Showing 2 of 6 projects in Branding.",
+        "title": "Branding work | The Diamond Empire Studio"
+      },
+      "afterEnter": {
+        "path": "/work/category/websites/",
+        "marker": "same document",
+        "shown": 2,
+        "status": "Showing 2 of 6 projects in Websites.",
+        "title": "Websites work | The Diamond Empire Studio"
+      },
+      "modifierClick": {
+        "newTabOpened": true,
+        "pagesBefore": 1,
+        "pathAfter": "/work/category/websites/"
+      },
+      "afterBack": {
+        "path": "/work/category/branding/",
+        "marker": "same document",
+        "shown": 2,
+        "status": "Showing 2 of 6 projects in Branding.",
+        "title": "Branding work | The Diamond Empire Studio"
+      },
+      "afterBackToAll": {
+        "path": "/work/",
+        "marker": "same document",
+        "shown": 6,
+        "status": "Showing all 6 projects.",
+        "title": "Work | The Diamond Empire Studio"
+      },
+      "afterAll": {
+        "path": "/work/",
+        "marker": "same document",
+        "shown": 6,
+        "status": "Showing all 6 projects.",
+        "title": "Work | The Diamond Empire Studio"
+      },
+      "noPageErrors": true
+    }
+  },
+  "problems": [],
+  "categories": [
+    "branding",
+    "websites",
+    "campaigns"
+  ],
+  "projects": 6
+}

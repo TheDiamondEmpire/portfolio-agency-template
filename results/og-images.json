@@ -1,0 +1,28 @@
+{
+  "images": 19,
+  "expectedPages": 19,
+  "distinctImages": 19,
+  "totalBytes": 862809,
+  "sizes": {
+    "og/category-branding.png": 31522,
+    "og/category-campaigns.png": 34246,
+    "og/category-websites.png": 32670,
+    "og/contact.png": 35352,
+    "og/home.png": 50488,
+    "og/news-every-image-needs-a-size.png": 47422,
+    "og/news-filters-that-work-without-javascript.png": 45011,
+    "og/news-scope-a-project-on-one-page.png": 48386,
+    "og/news-what-we-check-before-launch.png": 49243,
+    "og/news.png": 36779,
+    "og/services.png": 50461,
+    "og/team.png": 40302,
+    "og/work-clearwater-water-saving.png": 49784,
+    "og/work-fernwood-dental-identity.png": 52450,
+    "og/work-harbourline-timetable.png": 50679,
+    "og/work-kite-books-shop.png": 53971,
+    "og/work-lantern-festival-campaign.png": 59091,
+    "og/work-northfield-co-op-site.png": 52080,
+    "og/work.png": 42872
+  },
+  "problems": []
+}

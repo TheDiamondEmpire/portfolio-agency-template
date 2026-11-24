@@ -1,0 +1,161 @@
+{
+  "404.html": {
+    "checked": 31,
+    "broken": [],
+    "external": [
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "contact/index.html": {
+    "checked": 41,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/contact/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "index.html": {
+    "checked": 49,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "news/every-image-needs-a-size/index.html": {
+    "checked": 32,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/news/every-image-needs-a-size/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "news/filters-that-work-without-javascript/index.html": {
+    "checked": 32,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/news/filters-that-work-without-javascript/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "news/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/news/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "news/scope-a-project-on-one-page/index.html": {
+    "checked": 32,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/news/scope-a-project-on-one-page/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "news/what-we-check-before-launch/index.html": {
+    "checked": 32,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/news/what-we-check-before-launch/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "services/index.html": {
+    "checked": 37,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/services/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "team/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/team/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/category/branding/index.html": {
+    "checked": 44,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/category/branding/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/category/campaigns/index.html": {
+    "checked": 44,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/category/campaigns/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/category/websites/index.html": {
+    "checked": 44,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/category/websites/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/clearwater-water-saving/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/clearwater-water-saving/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/fernwood-dental-identity/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/fernwood-dental-identity/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/harbourline-timetable/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/harbourline-timetable/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/index.html": {
+    "checked": 43,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/kite-books-shop/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/kite-books-shop/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/lantern-festival-campaign/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/lantern-festival-campaign/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  },
+  "work/northfield-co-op-site/index.html": {
+    "checked": 35,
+    "broken": [],
+    "external": [
+      "link:canonical: https://www.example.com/work/northfield-co-op-site/",
+      "link:alternate: https://www.example.com/rss.xml"
+    ]
+  }
+}
